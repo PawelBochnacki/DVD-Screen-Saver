@@ -20,4 +20,7 @@ Version 1.1
 Version 1.2
 - added a tooltip that displays information about program components
 - resized the color selection box
-- increased the chance of scoring a corner hit# DVD Screen Saver
+- increased the chance of scoring a corner hit
+
+Version 1.21
+- fixed a bug that caused the program to count one corner hit as two
